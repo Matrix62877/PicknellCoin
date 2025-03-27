@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PicknellCoin - The Future of Memecoins</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">🚀 PicknellCoin</div>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#tokenomics">Tokenomics</a></li>
+                <li><a href="#roadmap">Roadmap</a></li>
+                <li><a href="#buy">Buy Now</a></li>
+                <li><a href="#community">Community</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>The Future of Memecoins is Here – PicknellCoin</h1>
+        <p>Bringing Fun, Utility, and Innovation to the Blockchain.</p>
+        <a href="#buy" class="btn">Buy Now</a>
+        <a href="#community" class="btn secondary">Join the Community</a>
+    </section>
+
+    <section id="about">
+        <h2>About PicknellCoin</h2>
+        <p>PicknellCoin isn’t just a meme—it’s a movement! Built on the Base network, it’s designed for speed, low fees, and endless fun.</p>
+    </section>
+
+    <section id="tokenomics">
+        <h2>Tokenomics</h2>
+        <p>Total Supply: 1,000,000,000</p>
+        <div class="chart">[Neon Pie Chart Placeholder]</div>
+    </section>
+
+    <section id="roadmap">
+        <h2>Roadmap</h2>
+        <ul>
+            <li>Phase 1: Token launch, website, and initial marketing</li>
+            <li>Phase 2: Community growth, CEX listings, and partnerships</li>
+            <li>Phase 3: Utility expansion, NFT integration, and metaverse plans</li>
+            <li>Phase 4: To the moon! 🚀</li>
+        </ul>
+    </section>
+
+    <section id="buy">
+        <h2>Buy PicknellCoin</h2>
+        <a href="#" class="btn">Buy on Uniswap</a>
+    </section>
+
+    <section id="community">
+        <h2>Join the Community</h2>
+        <p>Follow us on social media:</p>
+        <div class="social-icons">
+            <a href="#" class="social">🐦 Twitter</a>
+            <a href="#" class="social">💬 Telegram</a>
+            <a href="#" class="social">🎮 Discord</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 PicknellCoin. Not financial advice. DYOR.</p>
+    </footer>
+</body>
+</html>
